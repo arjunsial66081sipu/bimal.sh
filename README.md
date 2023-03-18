@@ -1,2 +1,6 @@
-# bimal.sh
-bimalaaaa
+!#/bin/bash
+
+
+mkdir babu
+
+touch kabu
